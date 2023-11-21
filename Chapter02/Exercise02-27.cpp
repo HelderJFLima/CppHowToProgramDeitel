@@ -1,3 +1,4 @@
+// Exercise 2.27
 // Write a program that prints the integer equivalent of a character typed at
 // the keyboard using "static_cast".
 
